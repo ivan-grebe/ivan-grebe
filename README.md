@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ivan-grebe
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning C++
+- 📫 How to reach me: Email @igrebe@csu.fullerton.edu
+- 😄 Pronouns: he/him
